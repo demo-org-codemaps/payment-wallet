@@ -1,0 +1,31 @@
+{
+  "UNAUTHORIZED": "Apko ijazat nhi.",
+  "MISSING_AUTH_TOKEN": "Token bhejo header main.",
+  "INVALID_TOKEN": "Token invalid.",
+  "EXPIRED_TOKEN": "Token expired.",
+  "RESOURCE_NOT_FOUND": "Sorry, we could not find the requested resource.",
+  "UNEXPECTED_ERROR": "An unexpected error has occurred, please try again after few minutes or contact",
+  "ENTITY_NOT_FOUND": "{field} not found for {id}",
+  "ALREADY_EXIST": "{field} already exist in the system.",
+  "UNEXPECTED_SERVICE_ERROR": "Dusri service main masla aa gya ha",
+  "VALIDATIONS": {
+    "isNotEmpty": "{field} is mandatory",
+    "isInvalid": "{field} is invalid"
+  },
+  "INTERSERVICE_ERROR": "Error calling another service",
+  "SUCCESS": "Operation was successful",
+  "ORDER_PAYMENT": "آرڈر پیمنٹ",
+  "ORDER_REFUND": "آرڈر ریفنڈ",
+  "PROMOTIONAL_TOPUP": "پروموشنل ٹوپپ",
+  "REWARDS": "ریوارڈس",
+  "MOBILE_LOAD_PAYMENT": "موبائل لوڈ کی ادایگی",
+  "MOBILE_LOAD_COMMISSION": "موبائل لوڈ کا کمیشن",
+  "MOBILE_LOAD_BONUS": "موبائل لوڈ بونس",
+  "WALLET_CASHBACK": "والٹ کش بیک",
+  "SELF_TOPUP": "سیلف ٹاپ اپ",
+  "EASYPAISA_SELF_TOPUP": "ایزی پیسہ سیلف ٹاپ اپ",
+  "EASY_LOAD_TRANSACTION": "ایزی لوڈ ٹرانزیکشن",
+  "EASY_LOAD_EARNING": "ایزی لوڈ کمائی",
+  "GOODS_RETURN": "سامان کی واپسی",
+  "REVERSAL": "ریورسل"
+}

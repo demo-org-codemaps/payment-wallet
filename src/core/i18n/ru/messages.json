@@ -1,0 +1,31 @@
+{
+  "UNAUTHORIZED": "Apko ijazat nhi.",
+  "MISSING_AUTH_TOKEN": "Token bhejo header main.",
+  "INVALID_TOKEN": "Token invalid.",
+  "EXPIRED_TOKEN": "Token expired.",
+  "RESOURCE_NOT_FOUND": "Sorry, we could not find the requested resource.",
+  "UNEXPECTED_ERROR": "An unexpected error has occurred, please try again after few minutes or contact",
+  "ENTITY_NOT_FOUND": "{field} not found for {id}",
+  "ALREADY_EXIST": "{field} already exist in the system.",
+  "UNEXPECTED_SERVICE_ERROR": "Dusri service main masla aa gya ha",
+  "VALIDATIONS": {
+    "isNotEmpty": "{field} is mandatory",
+    "isInvalid": "{field} is invalid"
+  },
+  "INTERSERVICE_ERROR": "Error calling another service",
+  "SUCCESS": "Operation was successful",
+  "ORDER_PAYMENT": "Order Payment",
+  "ORDER_REFUND": "Order Refund",
+  "PROMOTIONAL_TOPUP": "Promotional topup",
+  "REWARDS": "Rewards",
+  "MOBILE_LOAD_PAYMENT": "Mobile load ki adaegi",
+  "MOBILE_LOAD_COMMISSION": "Mobile load ka commission",
+  "MOBILE_LOAD_BONUS": "Mobile Load Bonus",
+  "WALLET_CASHBACK": "Wallet Cashback",
+  "SELF_TOPUP": "Self TopUp",
+  "EASYPAISA_SELF_TOPUP": "Easypaisa Self Topup",
+  "EASY_LOAD_TRANSACTION": "Easy Load Transaction",
+  "EASY_LOAD_EARNING": "Easy Load kamayi",
+  "GOODS_RETURN": "Samaan ki wapsi",
+  "REVERSAL": "Reversal"
+}

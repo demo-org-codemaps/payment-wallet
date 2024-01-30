@@ -1,0 +1,12 @@
+version: '3.7'
+services:
+  backend:
+    container_name: ${WALLET_SERVICE_CONTAINER_NAME}
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - ${WALLET_APP_PORT}:${WALLET_APP_PORT}
+    command: npm run start:prod-pm2
+    env_file:
+      - .env
