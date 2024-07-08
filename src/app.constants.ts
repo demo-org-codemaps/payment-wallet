@@ -35,7 +35,7 @@ export const CONSTANTS = {
       CURRENCY: 'SAR',
       COUNTRY: 'SAUDI ARABIA',
       LOWEST_DENOMINATION: 100,
-      PRECISION: 2,
+      PRECISION: 4,
       LABEL: 'HALALA',
       COUNTRY_CODE: 'SA',
     },
